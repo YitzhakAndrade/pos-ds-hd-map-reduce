@@ -101,3 +101,4 @@ ENV/
 .mypy_cache/
 
 exercicio1/result.csv
+exercicio2/result.csv
