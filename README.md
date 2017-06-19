@@ -4,3 +4,8 @@ Repositório criado para os exercícios da disciplina "Soluções para processam
 
 
 # rodar com python2
+
+
+rodar clientes:
+
+python mincemeat.py -p changeme localhost
